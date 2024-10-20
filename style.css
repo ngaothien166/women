@@ -35,14 +35,9 @@ body {
   color: white;
   font-size: 50px;
   position: fixed;
-  top: 40px;
+  top: 80px;
 }
-.happy-woman-day2 {
-  color: white;
-  font-size: 50px;
-  position: fixed;
-  top: 100px;
-}
+
 
 .flowers {
   position: relative;
